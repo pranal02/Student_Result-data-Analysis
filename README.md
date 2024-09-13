@@ -41,6 +41,9 @@ Restaurant Type vs. Online Orders:
 Libraries Used:
 
 Pandas: For data manipulation and analysis.
+
 NumPy: For numerical operations.
+
 Matplotlib: For creating static visualizations.
+
 Seaborn: For statistical visualizations.
